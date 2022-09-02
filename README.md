@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WandersonAFreitas&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Development coordinator and developer
+- 🔥 Development Coordinator, Systems Analyst and Developer
 
 ## Contact
 
